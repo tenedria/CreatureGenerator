@@ -1,0 +1,139 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660M  (ID=0xfd4)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+Platform assembly: C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tenedria\Desktop\GeneratorGame\generate_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.803956 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at BodyRenderer.PeltSwitch (Int32 eyeno, Int32 peltno) [0x00000] in <filename unknown>:0 
+  at BodyRenderer.materialTest () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.generateBody () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.635020 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.290792 ms (FindLiveObjects: 0.015822 ms CreateObjectMapping: 0.024375 ms MarkObjects: 0.186449 ms  DeleteObjects: 0.063717 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637178 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.353655 ms (FindLiveObjects: 0.027796 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.223653 ms  DeleteObjects: 0.077829 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564907 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.368194 ms (FindLiveObjects: 0.050033 ms CreateObjectMapping: 0.020954 ms MarkObjects: 0.218949 ms  DeleteObjects: 0.077402 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543098 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.375892 ms (FindLiveObjects: 0.050888 ms CreateObjectMapping: 0.021381 ms MarkObjects: 0.232634 ms  DeleteObjects: 0.070132 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637178 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.392570 ms (FindLiveObjects: 0.042763 ms CreateObjectMapping: 0.042336 ms MarkObjects: 0.233917 ms  DeleteObjects: 0.072698 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.632474 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.385728 ms (FindLiveObjects: 0.050461 ms CreateObjectMapping: 0.020954 ms MarkObjects: 0.233061 ms  DeleteObjects: 0.079968 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.550368 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.372898 ms (FindLiveObjects: 0.048750 ms CreateObjectMapping: 0.020954 ms MarkObjects: 0.223653 ms  DeleteObjects: 0.077829 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.631619 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.377602 ms (FindLiveObjects: 0.047467 ms CreateObjectMapping: 0.020954 ms MarkObjects: 0.234772 ms  DeleteObjects: 0.073125 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552078 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.367767 ms (FindLiveObjects: 0.042336 ms CreateObjectMapping: 0.031645 ms MarkObjects: 0.223653 ms  DeleteObjects: 0.068849 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BodyRenderer.PeltSwitch (Int32 eyeno, Int32 peltno) [0x00000] in <filename unknown>:0 
+  at BodyRenderer.materialTest () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.generateBody () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.595697 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.378030 ms (FindLiveObjects: 0.046612 ms CreateObjectMapping: 0.021809 ms MarkObjects: 0.245890 ms  DeleteObjects: 0.062007 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614085 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.392142 ms (FindLiveObjects: 0.047895 ms CreateObjectMapping: 0.020954 ms MarkObjects: 0.239904 ms  DeleteObjects: 0.082106 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613658 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.392997 ms (FindLiveObjects: 0.050033 ms CreateObjectMapping: 0.021381 ms MarkObjects: 0.239904 ms  DeleteObjects: 0.079968 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BodyRenderer.PeltSwitch (Int32 eyeno, Int32 peltno) [0x00000] in <filename unknown>:0 
+  at BodyRenderer.materialTest () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.generateBody () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.554644 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.384017 ms (FindLiveObjects: 0.041053 ms CreateObjectMapping: 0.034210 ms MarkObjects: 0.242042 ms  DeleteObjects: 0.065428 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BodyRenderer.PeltSwitch (Int32 eyeno, Int32 peltno) [0x00000] in <filename unknown>:0 
+  at BodyRenderer.materialTest () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.generateBody () [0x00000] in <filename unknown>:0 
+  at BodyRenderer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1278 -> priority: 1 
+  Thread -> id: a38 -> priority: 1 
